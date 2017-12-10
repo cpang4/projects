@@ -10,5 +10,3 @@ This is a blackjack game I coded in R.
 -If multiple players (but not dealer) get 21, prints out the winners that it is a tie between.   
 -If every player scores > 21, dealer wins by default   
 -If nobody gets 21 but < 21, the player closest to 21 wins. (If multiple same scores, prints out the winners that tied)   
-   
-The code is posted within this folder, and you can also find a HTML Doc showing a sample play.   
