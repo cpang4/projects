@@ -9,4 +9,5 @@ This project uses tidyverse and stringr packages to parse presidential speeches 
 
 for each speech.   
 
-You can find text file with the speech data, the R code, and the HTML doc that runs the R code and shows the results in this folder.
+You can find text file with the speech data and the R code in this folder.   
+The HTML doc with with results can be found [here](http://www.clairepang.com)
