@@ -1,6 +1,6 @@
 This is a blackjack game I coded in R.
 
--To play, call play(k,t) where k is number of players and t is number of decks
+-To play, call play(k,t) where k is number of players and t is number of decks    
 -The play method first deals cards initially to the dealer (prints out one card the dealer is “showing”)
 -Then it does an initial dealing of 2 cards for next players; asks whether to hit or stand. Continues until score is >= 21 OR player types stand.
 -Dealer is on automatic decision rule, where will continue to hit as long as score is less than 17
